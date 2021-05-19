@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 球球
-- 👀 I’m interested in web
-- 🌱 I’m currently learning 前端
-- 📫 How to reach me 623903979
+- 👀 I’m interested in 前端开发
+- 🌱 I’m currently learning javascript
+- 📫 How to reach me qq623903979
 
 <!---
 qiuqiu0414/qiuqiu0414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
